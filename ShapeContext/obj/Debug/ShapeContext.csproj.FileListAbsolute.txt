@@ -1,0 +1,6 @@
+E:\users\pjh\Code\Visual Studio\ShapeContext\ShapeContext\bin\Debug\ShapeContext.exe.config
+E:\users\pjh\Code\Visual Studio\ShapeContext\ShapeContext\obj\Debug\ShapeContext.csprojResolveAssemblyReference.cache
+E:\users\pjh\Code\Visual Studio\ShapeContext\ShapeContext\bin\Debug\ShapeContext.exe
+E:\users\pjh\Code\Visual Studio\ShapeContext\ShapeContext\bin\Debug\ShapeContext.pdb
+E:\users\pjh\Code\Visual Studio\ShapeContext\ShapeContext\obj\Debug\ShapeContext.exe
+E:\users\pjh\Code\Visual Studio\ShapeContext\ShapeContext\obj\Debug\ShapeContext.pdb
